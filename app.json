@@ -1,7 +1,7 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
-    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "name": "XrHeroku",
+    "description": "xr websocket proxy on heroku",
+    "keywords": ["vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
