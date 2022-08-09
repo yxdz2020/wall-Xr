@@ -1,5 +1,5 @@
 {
-    "name": "HX",
+    "name": "HX-001",
     "description": "Learn Linux on heroku",
     "keywords": ["Linux"],
     "env": {
